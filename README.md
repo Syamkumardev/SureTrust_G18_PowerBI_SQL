@@ -113,5 +113,5 @@ Multi-meeting channel support.
 📬 Contact
 
 Syam Kumar Appikatla
-📧 Email: your_email_here
+📧 Email: appikatlasyamkumar@gmail.com
 🔗 LinkedIn : https://www.linkedin.com/in/syam-kumar-appikatla-a078ab2b2/
