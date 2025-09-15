@@ -24,15 +24,6 @@ It showcases my learning and application of **SQL** for database management and 
 - Power BI (Microsoft)  
 - Relational Databases  
 
----
-
-## 📊 Sample Dashboards
-_Add screenshots here for better presentation._  
-Example:
-
-![Sales Dashboard](images/sales_dashboard.png)
-
----
 
 ## 🚀 How to Use
 1. Clone the repository:
